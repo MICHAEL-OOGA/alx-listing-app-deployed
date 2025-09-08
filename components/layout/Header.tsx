@@ -5,7 +5,7 @@ const Header = () => {
       <input
         type="text"
         placeholder="Search destinations"
-        className="mt-2 md:mt-0 md:mx-4 p-2 border rounded w-full md:w-1/2"
+        className="mt-2 md:mt-0 md:mx-4 p-2 border rounded w-full md:w-1/2 capitalize"
       />
       <div className="mt-2 md:mt-0 flex gap-4">
         <button className="text-sm">Sign In</button>
